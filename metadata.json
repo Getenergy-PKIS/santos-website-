@@ -1,0 +1,9 @@
+{
+  "name": "SCEF - Santos Creations Educational Foundation",
+  "description": "Production-ready digital ecosystem for SCEF, featuring integrated governance, technology, media advocacy, and chapter coordination.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
